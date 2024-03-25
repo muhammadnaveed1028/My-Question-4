@@ -1,0 +1,10 @@
+var famousperson = "Thomas Edison once a said,";
+console.log(famousperson);
+var famouseqoute = "     'Many of lif's falilures are";
+console.log(famouseqoute);
+var famouseQoute = "     people who did not realiz how";
+console.log(famouseQoute);
+var FamousQoute = "       close they were to success";
+console.log(FamousQoute);
+var Famous_Qoute = "        when they gave up,      ";
+console.log(Famous_Qoute);
